@@ -2,4 +2,5 @@
 Um jogo divertido de matematica.
 
 Escolha uma dificuldade.
-Quanto maior a dificuldade mais os calculos serão complexos. Boa sorte!
+Quanto maior a dificuldade mais os cálculos serão complexos.
+Boa sorte!!!
